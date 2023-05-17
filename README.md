@@ -1,4 +1,4 @@
-# Java-BasicCalculator
+# Java-Swing BasicCalculator
 <p align="center">
 <img width="412" alt="1" src="https://github.com/OguzhanSakaoglu/Java-BasicCalculator/assets/48987900/9c80e3b2-106b-44d6-82de-7fc8ccceb481" >
 </p>
